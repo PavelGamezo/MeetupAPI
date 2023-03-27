@@ -1,0 +1,17 @@
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\bin\Debug\net6.0\Meetup.Data.deps.json
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\bin\Debug\net6.0\Meetup.Data.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\bin\Debug\net6.0\Meetup.Data.pdb
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\bin\Debug\net6.0\Meetup.Entities.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\bin\Debug\net6.0\Meetup.Entities.pdb
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.csproj.AssemblyReference.cache
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.AssemblyInfoInputs.cache
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.AssemblyInfo.cs
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.csproj.CoreCompileInputs.cache
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.csproj.CopyComplete
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\refint\Meetup.Data.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.pdb
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\ref\Meetup.Data.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\bin\Debug\net6.0\Meetup.Data.runtimeconfig.json
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Data\obj\Debug\net6.0\Meetup.Data.genruntimeconfig.cache

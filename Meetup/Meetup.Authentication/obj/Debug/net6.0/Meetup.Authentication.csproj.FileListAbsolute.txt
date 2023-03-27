@@ -1,0 +1,12 @@
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\bin\Debug\net6.0\Meetup.Authentication.deps.json
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\bin\Debug\net6.0\Meetup.Authentication.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\bin\Debug\net6.0\Meetup.Authentication.pdb
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\Meetup.Authentication.csproj.AssemblyReference.cache
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\Meetup.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\Meetup.Authentication.AssemblyInfoInputs.cache
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\Meetup.Authentication.AssemblyInfo.cs
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\Meetup.Authentication.csproj.CoreCompileInputs.cache
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\Meetup.Authentication.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\refint\Meetup.Authentication.dll
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\Meetup.Authentication.pdb
+D:\Программирование\Собеседование\Техническое задание\MeetupAPI\Meetup\Meetup.Authentication\obj\Debug\net6.0\ref\Meetup.Authentication.dll
