@@ -2,18 +2,17 @@
 using AutoMapper.QueryableExtensions;
 using Meetup.BusinessLayer.Dtos;
 using Meetup.BusinessLayer.Interfaces;
-using Meetup.Exceptions;
-using Meetup.Data.Repositories.Interfaces;
+using Meetup.DataAccessLayer.Repositories.Interfaces;
+using Meetup.Domain.Entities;
+using Meetup.Domain.Exceptions;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Meetup.Entities.Entities;
-using Meetup.Data.Repositories;
 
-namespace Meetup.BusinessLayer.Services.Events
+namespace Meetup.BusinessLayer.Services.Meetings
 {
     public class MeetingService : IMeetingService
     {
@@ -41,9 +40,9 @@ namespace Meetup.BusinessLayer.Services.Events
 
         public async Task<MeetingDto> AddMeeting(MeetingDto meetingDto)
         {
-            if(await _meetingRepository.GetAll().AnyAsync(q=>q.Title == meetingDto.Title))
+            if (await _meetingRepository.GetAll().AnyAsync(q => q.Title == meetingDto.Title))
             {
-                throw new ObjectExistsException($"Event with title {meetingDto.Title}");
+                throw new ObjectExistException(meetingDto.Title);
             }
 
             var meetingEntity = _mapper.Map<Meeting>(meetingDto);
